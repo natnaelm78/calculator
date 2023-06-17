@@ -37,7 +37,8 @@ double add(double x, double y)
  */
 double sub(double x, double y)
 {
-		return (0);
+		double result = x - y;
+		return (result);
 }
 
 /**
